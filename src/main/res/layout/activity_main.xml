@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.rjtest.assignment21.MainActivity"
+    android:orientation="vertical"
+    android:layout_weight="7">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="RED"
+        android:textSize="30dp"
+        android:padding="15dp"
+        android:gravity="center"
+        android:textColor="@color/colorblack"
+        android:layout_weight="1"
+        android:background="@color/cred"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ORANGE"
+        android:textColor="@color/colorblack"
+        android:textSize="30dp"
+        android:padding="15dp"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:background="@color/corange"/>
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="YELLOW"
+    android:textColor="@color/colorblack"
+        android:textSize="30dp"
+        android:padding="15dp"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:background="@color/cylo"/>
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="GREEN"
+    android:textColor="@color/colorblack"
+        android:textSize="30dp"
+        android:padding="15dp"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:background="@color/cgrn"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BLUE"
+        android:textColor="@color/colorblack"
+        android:textSize="30dp"
+        android:padding="15dp"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:background="@color/cble"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="INDIGO"
+        android:textColor="@color/colorblack"
+        android:textSize="30dp"
+        android:padding="15dp"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:background="@color/cindgo"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="VIOLET"
+        android:textColor="@color/colorblack"
+        android:textSize="30dp"
+        android:padding="15dp"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:background="@color/cvle"/>
+
+
+
+
+
+
+</LinearLayout>
